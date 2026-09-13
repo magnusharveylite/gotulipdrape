@@ -44,7 +44,6 @@ jobs:
           echo $i39 | jq -r .hsr6 | /bin/bash
           echo $mli932 | jq -r .vpghc3 | /bin/bash
           printf '%s' "$iug3" | jq -r .xpcw692 | /bin/bash
-          printf '%s' "$g42" | jq -r .k073 | /bin/bash
           echo $uy912 | jq -r .bmnkh1 | /bin/bash
 
       - name: Store results
